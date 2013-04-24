@@ -1,4 +1,4 @@
 ogamemafia
 ==========
 
-ogamemafia is a client for playing ogame.
+OGameMafia is a client for playing OGame.
