@@ -18,7 +18,7 @@ public class Planet {
 	private static Logger logger = Logger.getLogger(Planet.class.getName());
 	
 	final static List<String> names = Arrays.asList(
-			"Metal", "Crystal",	"Deuterium",
+			"Metal", "Crystal", "Deuterium",
 			"Energy");
 	
 	final static int METAL = 0, CRYSTAL = 1, DEUTERIUM = 2, ENERGY = 3;
